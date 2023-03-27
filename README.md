@@ -1,4 +1,4 @@
-# Optimisez-la-gestion-des-donn-es-d-une-boutique-avec-Python
+# Optimisez-la-gestion-des-données-d-une-boutique-avec-Python
 
 BottleNeck, un marchand de vin souhaite faciliter le gestion de son stock en rapprochant les inventaire IRL et web. Il faut également effectuer une analyse sommaire des données.
 
